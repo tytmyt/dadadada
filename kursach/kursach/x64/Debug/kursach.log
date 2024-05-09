@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\User\source\repos\kursach\kursach\MyForm.h(163,51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  kursach.vcxproj -> C:\Users\User\source\repos\kursach\x64\Debug\kursach.exe
